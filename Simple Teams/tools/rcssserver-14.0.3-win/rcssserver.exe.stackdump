@@ -1,0 +1,11 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=E5895590
+eax=E5895590 ebx=00492B37 ecx=39FFFF9F edx=00492B67 esi=00492B67 edi=0052BC30
+ebp=0028C8D4 esp=0028C8C8 program=C:\Pablo-Sync\Dropbox\UFRPE-Ensino\Sistemas Multiagentes_new\robocup 2d lib\Simple Teams\tools\rcssserver-14.0.3-win\rcssserver.exe, pid 10120, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028C8D4  E5895590  (00492B67, 0052BC30, 0028C8F4, 00529AEA)
+0028C8F4  00529B42  (005C9F5A, 00613480, 005DC4E0, 00000002)
+0028C994  0052BCA8  (00000000, 00000000, 00000000, 00000000)
+005DC4E0  00000000  (00002076, 00000000, 1A63C1F8, 404CA5DC)
+End of stack trace

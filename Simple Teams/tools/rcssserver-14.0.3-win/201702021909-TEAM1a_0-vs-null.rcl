@@ -1,0 +1,5 @@
+0,16	Recv TEAM1a_1: (init TEAM1a (version 9))
+0,25	(referee kick_off_l)
+15,0	Recv TEAM1a_1: (move -25.0 0.0)
+16,0	Recv TEAM1a_1: (dash 100.0)
+17,0	Recv TEAM1a_1: (dash 100.0)

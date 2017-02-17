@@ -1,0 +1,5 @@
+0,16	Recv KEYB_1: (init KEYB (version 9))
+0,16	Recv KEYB_1: (move -12.672976248430862 -25.281481115860593)
+0,102	(referee kick_off_l)
+200,0	(referee drop_ball)
+200,0	(referee play_on)
